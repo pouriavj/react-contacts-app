@@ -77,4 +77,16 @@ A simple React project demonstrating reusable components, props, mapping, and st
    ```
 4. Open `http://localhost:5173`
  in your browser.
+
+---
+
+## Usage
+
+- The app renders a list of contact cards from `contacts.js`.  
+- Each card displays:
+  - Contact name  
+  - Avatar image  
+  - Phone number and email  
+- You can add, remove, or modify contacts in `contacts.js` to update the list dynamically.
+
    
