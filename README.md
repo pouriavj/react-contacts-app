@@ -97,5 +97,5 @@ A simple React project demonstrating reusable components, props, mapping, and st
 ---
 
 ## Demo
-![Screenshot](contact-app.jpg)
+![Screenshot](contacts-app.jpg)
    
