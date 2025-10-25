@@ -94,4 +94,8 @@ A simple React project demonstrating reusable components, props, mapping, and st
   - Phone number and email  
 - You can add, remove, or modify contacts in `contacts.js` to update the list dynamically.
 
+---
+
+## Demo
+![Screenshot](contact-app.jpg)
    
