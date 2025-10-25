@@ -73,7 +73,7 @@ A simple React project demonstrating reusable components, props, mapping, and st
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pouriavj/react-contacts-app
+   git clone https://github.com/pouriavj/react-contacts-app.git
    cd react-contacts-app
    ```
 2. **Install dependencies**
