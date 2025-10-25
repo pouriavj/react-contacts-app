@@ -1,6 +1,6 @@
 # React Contacts App
 
-A simple React project demonstrating component-based architecture, props, mapping, and styling. This app renders a list of contact cards using reusable React components.
+A simple React project demonstrating reusable components, props, mapping, and styling by rendering a list of fictional contact cards.
 
 ---
 
@@ -19,7 +19,6 @@ A simple React project demonstrating component-based architecture, props, mappin
 ## Demo
 
 
-
 ---
 
 ## Features
@@ -28,11 +27,12 @@ A simple React project demonstrating component-based architecture, props, mappin
 - Passing data via **props**  
 - Rendering lists with **map**  
 - Component-based **styling** with CSS  
-- Clean and responsive card design  
+- Clean card layout and responsive design  
 
 ---
 
 ## Project Structure
+
 
 - `App.jsx`: Main component rendering the list of contacts  
 - `Card.jsx`: Displays each contact card  
