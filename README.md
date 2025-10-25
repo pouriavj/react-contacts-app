@@ -47,3 +47,34 @@ A simple React project demonstrating reusable components, props, mapping, and st
 - `.gitignore`: Files/folders to ignore in Git  
 - `README.md`: Project documentation
 
+---
+
+## Technologies Used
+
+- React 18  
+- Vite  
+- JavaScript (JSX)  
+- CSS  
+
+---
+
+## Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repo-url>
+   cd react-contacts-app
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+
+   ```
+3. **Run the development server**
+   ```bash
+   npm run dev
+
+   ```
+4. Open `http://localhost:5173`
+ in your browser.
+   
