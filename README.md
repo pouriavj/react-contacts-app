@@ -51,10 +51,21 @@ A simple React project demonstrating reusable components, props, mapping, and st
 
 ## Technologies Used
 
-- React 18  
-- Vite  
-- JavaScript (JSX)  
-- CSS  
+<table>
+  <tr>
+    <td><b>React 19</b></td>
+    <td><b>Vite</b></td>
+  </tr>
+  <tr>
+    <td><b>JavaScript (JSX)</b></td>
+    <td><b>CSS</b></td>
+  </tr>
+  <tr>
+    <td><b>HTML</b></td>
+    <td><b>npm</b></td>
+  </tr>
+</table>
+
 
 ---
 
