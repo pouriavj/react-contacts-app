@@ -18,8 +18,7 @@ A simple React project demonstrating component-based architecture, props, mappin
 
 ## Demo
 
-![Screenshot](screenshot.png)  
-*(Optional: Replace with your own screenshot or GIF of the app.)*
+
 
 ---
 
