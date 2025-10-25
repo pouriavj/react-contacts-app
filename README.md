@@ -12,7 +12,7 @@ A simple React project demonstrating reusable components, props, mapping, and st
 - [Technologies Used](#technologies-used)  
 - [Getting Started](#getting-started)  
 - [Usage](#usage)  
-- [License](#license)  
+
 
 ---
 
