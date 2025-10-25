@@ -5,18 +5,12 @@ A simple React project demonstrating reusable components, props, mapping, and st
 ---
 
 ## Table of Contents
-
-- [Demo](#demo)  
+ 
 - [Features](#features)  
 - [Project Structure](#project-structure)  
 - [Technologies Used](#technologies-used)  
 - [Getting Started](#getting-started)  
 - [Usage](#usage)  
-
-
----
-
-## Demo
 
 
 ---
