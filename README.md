@@ -34,3 +34,35 @@ A simple React project demonstrating component-based architecture, props, mappin
 
 ## Project Structure
 
+react-contacts-app/
+├─ public/
+│ └─ styles.css
+├─ src/
+│ ├─ components/
+│ │ ├─ App.jsx
+│ │ ├─ Card.jsx
+│ │ ├─ Avatar.jsx
+│ │ └─ Detail.jsx
+│ ├─ contacts.js
+│ └─ index.jsx
+├─ index.html
+├─ vite.config.js
+├─ package.json
+├─ package-lock.json
+├─ .gitignore
+└─ README.md
+
+
+- `App.jsx`: Main component rendering the list of contacts  
+- `Card.jsx`: Displays each contact card  
+- `Avatar.jsx`: Shows contact image  
+- `Detail.jsx`: Shows contact details (phone, email)  
+- `contacts.js`: Fictional contact data array  
+- `styles.css`: Styling for cards and layout (inside `public`)  
+- `index.html`: Entry HTML file  
+- `index.jsx`: Entry point for React app  
+- `vite.config.js`: Vite configuration  
+- `package.json` & `package-lock.json`: Project metadata and dependencies  
+- `.gitignore`: Files/folders to ignore in Git  
+- `README.md`: Project documentation
+
