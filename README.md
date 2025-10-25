@@ -34,25 +34,6 @@ A simple React project demonstrating component-based architecture, props, mappin
 
 ## Project Structure
 
-react-contacts-app/
-├─ public/
-│ └─ styles.css
-├─ src/
-│ ├─ components/
-│ │ ├─ App.jsx
-│ │ ├─ Card.jsx
-│ │ ├─ Avatar.jsx
-│ │ └─ Detail.jsx
-│ ├─ contacts.js
-│ └─ index.jsx
-├─ index.html
-├─ vite.config.js
-├─ package.json
-├─ package-lock.json
-├─ .gitignore
-└─ README.md
-
-
 - `App.jsx`: Main component rendering the list of contacts  
 - `Card.jsx`: Displays each contact card  
 - `Avatar.jsx`: Shows contact image  
