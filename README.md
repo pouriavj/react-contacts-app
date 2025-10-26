@@ -2,6 +2,7 @@
 
 A simple React project demonstrating reusable components, props, mapping, and styling by rendering a list of fictional contact cards.
 
+> **Note:** This is a small learning project built to practice React components, props, and mapping.
 ---
 
 ## Table of Contents
