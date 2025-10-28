@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Build-orange?logo=vite)
 ![ES6](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 A simple React project demonstrating reusable components, props, mapping, and styling by rendering a list of fictional contact cards.
 
